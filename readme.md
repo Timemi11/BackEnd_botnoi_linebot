@@ -29,7 +29,7 @@ set linebot
 ติดตั้ง dependency เผื่อไม่มี go.mod
 
 ```
-go mod init
+go mod init main
 ```
 
 start server
